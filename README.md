@@ -1,2 +1,3 @@
-# Database-Management-and-Data-Visualisation
-Lecture stuff
+# Hello world
+This is my first repository. 
+I am looking forward to learning more. meow
